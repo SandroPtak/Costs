@@ -25,34 +25,15 @@
       "id": 1
     },
     {
-      "name": "Novo Projeto",
-      "budget": "8000",
+      "name": "teste4",
+      "budget": "9050",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
-      "cost": 7001,
-      "services": [
-        {
-          "name": "meu novo serviço",
-          "cost": "1",
-          "description": "nada de mais",
-          "id": "7fb4347f-8f87-4681-ab37-8857f3b96464"
-        },
-        {
-          "name": "Novo Projeto2",
-          "cost": "5000",
-          "description": "nada de mais",
-          "id": "7efa228d-1492-4969-ad5b-6bcacd340f3e"
-        },
-        {
-          "name": "Novo Projeto2",
-          "cost": "2000",
-          "description": "nada de mais",
-          "id": "4dd76d23-423a-42a6-8ef6-9a50ab3726bf"
-        }
-      ],
-      "id": 4
+      "cost": 0,
+      "services": [],
+      "id": 2
     }
   ],
   "categories": [
